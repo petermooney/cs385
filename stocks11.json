@@ -1,0 +1,12 @@
+{"stockData":[{"stockID":1,"stock":{"industry":"Computer Software: Programming, Data Processing","sector":"Technology","symbol":"VNET","name":"21Vianet Group, Inc."},"rates":{"buy":109.55,"sell":273.14,"timestamp":"2019-04-16 19:19:13"}},
+{"stockID":2,"stock":{"industry":"n/a","sector":"n/a","symbol":"AWP","name":"Alpine Global Premier Properties Fund"},"rates":{"buy":218.09,"sell":150.15,"timestamp":"2021-05-27 15:07:37"}},
+{"stockID":3,"stock":{"industry":"Beverages (Production/Distribution)","sector":"Consumer Non-Durables","symbol":"LBIX","name":"Leading Brands Inc"},"rates":{"buy":202.62,"sell":84.8,"timestamp":"2019-05-11 04:36:10"}},
+{"stockID":4,"stock":{"industry":"Specialty Chemicals","sector":"Consumer Durables","symbol":"IPHS","name":"Innophos Holdings, Inc."},"rates":{"buy":211.08,"sell":276.0,"timestamp":"2022-09-01 08:07:38"}},
+{"stockID":5,"stock":{"industry":"n/a","sector":"n/a","symbol":"SND","name":"Smart Sand, Inc."},"rates":{"buy":181.91,"sell":268.59,"timestamp":"2019-07-06 02:53:12"}},
+{"stockID":6,"stock":{"industry":"n/a","sector":"n/a","symbol":"AGM.A","name":"Federal Agricultural Mortgage Corporation"},"rates":{"buy":145.9,"sell":98.59,"timestamp":"2022-05-07 16:24:23"}},
+{"stockID":7,"stock":{"industry":"Restaurants","sector":"Consumer Services","symbol":"BWLD","name":"Buffalo Wild Wings, Inc."},"rates":{"buy":168.17,"sell":120.16,"timestamp":"2022-10-07 08:26:43"}},
+{"stockID":8,"stock":{"industry":"Oil & Gas Production","sector":"Energy","symbol":"CEO","name":"CNOOC Limited"},"rates":{"buy":231.66,"sell":91.87,"timestamp":"2019-01-03 21:13:06"}},
+{"stockID":9,"stock":{"industry":"Semiconductors","sector":"Technology","symbol":"VIAV","name":"Viavi Solutions Inc."},"rates":{"buy":237.22,"sell":144.92,"timestamp":"2019-10-26 23:03:03"}},
+{"stockID":10,"stock":{"industry":"Commercial Banks","sector":"Finance","symbol":"SNBC","name":"Sun Bancorp, Inc."},"rates":{"buy":121.52,"sell":231.6,"timestamp":"2018-05-03 19:36:21"}},
+{"stockID":11,"stock":{"industry":"n/a","sector":"n/a","symbol":"GRX^A","name":"The Gabelli Healthcare & Wellness Trust"},"rates":{"buy":237.49,"sell":249.24,"timestamp":"2022-02-28 04:37:09"}},
+{"stockID":12,"stock":{"industry":"Food Distributors","sector":"Consumer Non-Durables","symbol":"DPZ","name":"Domino's Pizza Inc"},"rates":{"buy":220.87,"sell":217.01,"timestamp":"2021-11-18 18:04:40"}}]}
