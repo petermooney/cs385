@@ -1,0 +1,10 @@
+{"stockData":[{"stockID":1,"stock":{"industry":"Telecommunications Equipment","sector":"Consumer Services","symbol":"ORBC","name":"ORBCOMM Inc."},"rates":{"buy":147.98,"sell":264.33,"timestamp":"2021-10-24 19:02:08"}},
+{"stockID":2,"stock":{"industry":"Metal Fabrications","sector":"Energy","symbol":"DRQ","name":"Dril-Quip, Inc."},"rates":{"buy":109.27,"sell":266.19,"timestamp":"2023-04-27 19:23:07"}},
+{"stockID":3,"stock":{"industry":"Plastic Products","sector":"Consumer Non-Durables","symbol":"ATR","name":"AptarGroup, Inc."},"rates":{"buy":156.82,"sell":279.17,"timestamp":"2017-10-17 19:44:55"}},
+{"stockID":4,"stock":{"industry":"Other Specialty Stores","sector":"Consumer Services","symbol":"SPH","name":"Suburban Propane Partners, L.P."},"rates":{"buy":146.95,"sell":196.46,"timestamp":"2021-03-16 01:09:04"}},
+{"stockID":5,"stock":{"industry":"n/a","sector":"n/a","symbol":"JTA","name":"Nuveen Tax-Advantaged Total Return Strategy Fund"},"rates":{"buy":147.44,"sell":279.06,"timestamp":"2017-08-31 06:52:27"}},
+{"stockID":6,"stock":{"industry":"Marine Transportation","sector":"Consumer Services","symbol":"NCLH","name":"Norwegian Cruise Line Holdings Ltd."},"rates":{"buy":118.2,"sell":248.18,"timestamp":"2019-12-21 10:14:59"}},
+{"stockID":7,"stock":{"industry":"Major Banks","sector":"Finance","symbol":"CAC","name":"Camden National Corporation"},"rates":{"buy":120.23,"sell":244.63,"timestamp":"2016-08-27 20:57:50"}},
+{"stockID":8,"stock":{"industry":"Marine Transportation","sector":"Transportation","symbol":"OSG","name":"Overseas Shipholding Group, Inc."},"rates":{"buy":99.98,"sell":265.9,"timestamp":"2018-09-20 22:47:42"}},
+{"stockID":9,"stock":{"industry":"Real Estate Investment Trusts","sector":"Consumer Services","symbol":"IRET","name":"Investors Real Estate Trust"},"rates":{"buy":69.13,"sell":262.91,"timestamp":"2017-10-06 15:26:33"}},
+{"stockID":10,"stock":{"industry":"n/a","sector":"n/a","symbol":"NEE^Q","name":"NextEra Energy, Inc."},"rates":{"buy":89.16,"sell":187.89,"timestamp":"2016-08-19 19:28:51"}}]}

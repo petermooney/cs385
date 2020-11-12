@@ -1,0 +1,12 @@
+{"stockData":[{"stockID":1,"stock":{"industry":"Marine Transportation","sector":"Consumer Services","symbol":"TGP","name":"Teekay LNG Partners L.P."},"rates":{"buy":138.49,"sell":169.26,"timestamp":"2020-05-11 02:08:28"}},
+{"stockID":2,"stock":{"industry":"n/a","sector":"n/a","symbol":"BTO","name":"John Hancock Financial Opportunities Fund"},"rates":{"buy":121.33,"sell":165.55,"timestamp":"2018-08-30 08:56:11"}},
+{"stockID":3,"stock":{"industry":"n/a","sector":"n/a","symbol":"AFSI^B","name":"AmTrust Financial Services, Inc."},"rates":{"buy":198.21,"sell":111.78,"timestamp":"2021-04-21 21:55:47"}},
+{"stockID":4,"stock":{"industry":"n/a","sector":"n/a","symbol":"HYZD","name":"WisdomTree Interest Rate Hedged High Yield Bond Fund"},"rates":{"buy":238.16,"sell":277.8,"timestamp":"2019-06-21 05:24:53"}},
+{"stockID":5,"stock":{"industry":"Computer Software: Prepackaged Software","sector":"Technology","symbol":"PAYC","name":"Paycom Software, Inc."},"rates":{"buy":151.93,"sell":267.67,"timestamp":"2020-05-28 19:05:01"}},
+{"stockID":6,"stock":{"industry":"n/a","sector":"n/a","symbol":"BGX","name":"Blackstone GSO Long Short Credit Income Fund"},"rates":{"buy":176.47,"sell":128.95,"timestamp":"2020-09-15 12:05:43"}},
+{"stockID":7,"stock":{"industry":"n/a","sector":"n/a","symbol":"KIM^J","name":"Kimco Realty Corporation"},"rates":{"buy":105.58,"sell":240.18,"timestamp":"2019-05-07 18:54:51"}},
+{"stockID":8,"stock":{"industry":"Business Services","sector":"Finance","symbol":"OACQU","name":"Origo Acquisition Corporation"},"rates":{"buy":161.35,"sell":120.89,"timestamp":"2022-08-01 00:20:56"}},
+{"stockID":9,"stock":{"industry":"Engineering & Construction","sector":"Basic Industries","symbol":"AMRC","name":"Ameresco, Inc."},"rates":{"buy":116.4,"sell":159.55,"timestamp":"2022-10-30 07:19:02"}},
+{"stockID":10,"stock":{"industry":"Natural Gas Distribution","sector":"Public Utilities","symbol":"AMID","name":"American Midstream Partners, LP"},"rates":{"buy":115.83,"sell":131.96,"timestamp":"2020-08-10 22:49:24"}},
+{"stockID":11,"stock":{"industry":"Real Estate Investment Trusts","sector":"Consumer Services","symbol":"AAT","name":"American Assets Trust, Inc."},"rates":{"buy":159.72,"sell":263.76,"timestamp":"2018-02-25 01:50:13"}},
+{"stockID":12,"stock":{"industry":"Semiconductors","sector":"Technology","symbol":"JASO","name":"JA Solar Holdings, Co., Ltd."},"rates":{"buy":175.81,"sell":266.32,"timestamp":"2021-05-11 15:02:55"}}]}
