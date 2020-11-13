@@ -1,290 +1,281 @@
 {
-	"inventory": [{
-
-			"bases": [{
-					"baseID": 2345,
-					"baseName": "Thin Crusted",
-					"price": 1.50
-				},
-				{
-					"baseID": 1345,
-					"baseName": "Thick Crusted",
-					"price": 2.50
-				},
-				{
-					"baseID": 5698,
-					"baseName": "Italian Thin Base",
-					"price": 1.50
-				},
-				{
-					"baseID": 516981,
-					"baseName": "Chicago Style",
-					"price": 2.75
-				},
-				{
-					"baseID": 51698,
-					"baseName": "Chicago Style",
-					"price": 2.75
-				},
-				{
-					"baseID": 516982,
-					"baseName": "New York Style",
-					"price": 2.75
-				},
-				{
-					"baseID": 14142,
-					"baseName": "Taste of Naples",
-					"price": 3.50
-				},
-				{
-					"baseID": 2414,
-					"baseName": "CS385 Special Base",
-					"price": 3.50
-				}
-
-			]
+	"bases": [{
+			"baseID": 2345,
+			"baseName": "Thin Crusted",
+			"price": 1.50
 		},
-
-
-
 		{
-			"cheeses": [{
-					"chName": "Blue Cheese",
-					"price": 1.45
-				},
-				{
-					"chName": "Brie",
-					"price": 1.45
-				},
-				{
-					"chName": "Camembert",
-					"price": 0.15
-				},
-				{
-					"chName": "Chedar",
-					"price": 0.45
-				},
-				{
-					"chName": "Colby",
-					"price": 0.45
-				},
-				{
-					"chName": "Feta",
-					"price": 1.45
-				},
-				{
-					"chName": "Goat Cheese",
-					"price": 1.45
-				},
-				{
-					"chName": "Gorgonzola",
-					"price": 1.45
-				},
-				{
-					"chName": "Limburger",
-					"price": 0.45
-				},
-				{
-					"chName": "Manchego",
-					"price": 1.45
-				},
-				{
-					"chName": "Monterey Jack",
-					"price": 0.25
-				},
-				{
-					"chName": "Parmesan",
-					"price": 0.25
-				},
-				{
-					"chName": "Mozzarella",
-					"price": 0.25
-				},
-				{
-					"chName": "Muenster",
-					"price": 0.45
-				},
-				{
-					"chName": "Port de Salut",
-					"price": 0.55
-				},
-				{
-					"chName": "Provolone",
-					"price": 0.55
-				},
-				{
-					"chName": "Ricota",
-					"price": 0.55
-				},
-				{
-					"chName": "Romano",
-					"price": 0.45
-				},
-				{
-					"chName": "Roquefort",
-					"price": 1.45
-				},
-				{
-					"chName": "Smoked Gouda",
-					"price": 1.45
-				}
-			]
-
-
+			"baseID": 1345,
+			"baseName": "Thick Crusted",
+			"price": 2.50
 		},
-
-
-
-
-
 		{
-			"toppings": [{
-					"topName": "Prawns",
-					"price": 2.50
-				},
-				{
-					"topName": "Mushrooms",
-					"price": 0.50
-				},
-				{
-					"topName": "Onions",
-					"price": 0.50
-				},
-				{
-					"topName": "Ham",
-					"price": 1.50
-				},
-				{
-					"topName": "Pepperoni",
-					"price": 1.50
-				},
-				{
-					"topName": "Pineapple",
-					"price": 0.50
-				},
-				{
-					"topName": "Sweetcorn",
-					"price": 0.40
-				},
-				{
-					"topName": "Tomato Slices",
-					"price": 1.50
-				},
-				{
-					"topName": "Tomato Cubes",
-					"price": 1.50
-				},
-				{
-					"topName": "Jalapenos",
-					"price": 2.00
-				},
-				{
-					"topName": "Spinach",
-					"price": 2.00
-				},
-				{
-					"topName": "Anchovies",
-					"price": 2.00
-				},
-				{
-					"topName": "Tuna",
-					"price": 2.50
-				},
-				{
-					"topName": "Red peppers",
-					"price": 0.50
-				},
-				{
-					"topName": "Roast cauliflower",
-					"price": 0.50
-				},
-				{
-					"topName": "Roasted eggplant",
-					"price": 2.50
-				},
-				{
-					"topName": "Roasted Garlic",
-					"price": 0.25
-				},
-				{
-					"topName": "Roasted peppers",
-					"price": 0.50
-				},
-				{
-					"topName": "Proscuitto",
-					"price": 1.50
-				},
-				{
-					"topName": "Salami",
-					"price": 1.50
-				},
-				{
-					"topName": "Sausage",
-					"price": 1.50
-				},
-				{
-					"topName": "Serrano Ham",
-					"price": 2.50
-				},
-				{
-					"topName": "Turkey",
-					"price": 1.50
-				},
-				{
-					"topName": "BBQ Chicken",
-					"price": 0.50
-				},
-				{
-					"topName": "Beef",
-					"price": 1.50
-				},
-				{
-					"topName": "Cajun Chicken",
-					"price": 0.75
-				},
-				{
-					"topName": "Chicken Masala",
-					"price": 1.50
-				},
-				{
-					"topName": "Chicken Tikka",
-					"price": 1.50
-				},
-				{
-					"topName": "Chorizo",
-					"price": 2.50
-				},
-				{
-					"topName": "Green peppers",
-					"price": 0.50
-				},
-				{
-					"topName": "Kalamata olives",
-					"price": 0.50
-				},
-				{
-					"topName": "Lettuce",
-					"price": 0.20
-				},
-				{
-					"topName": "Avocado",
-					"price": 0.50
-				},
-				{
-					"topName": "Beetroot",
-					"price": 1.50
-				},
-				{
-					"topName": "Black Beans",
-					"price": 1.50
-				},
-				{
-					"topName": "Broccoli",
-					"price": 0.50
-				}
-			]
+			"baseID": 5698,
+			"baseName": "Italian Thin Base",
+			"price": 1.50
+		},
+		{
+			"baseID": 516981,
+			"baseName": "Chicago Style",
+			"price": 2.75
+		},
+		{
+			"baseID": 51698,
+			"baseName": "Chicago Style",
+			"price": 2.75
+		},
+		{
+			"baseID": 516982,
+			"baseName": "New York Style",
+			"price": 2.75
+		},
+		{
+			"baseID": 14142,
+			"baseName": "Taste of Naples",
+			"price": 3.50
+		},
+		{
+			"baseID": 2414,
+			"baseName": "CS385 Special Base",
+			"price": 3.50
 		}
 
+	],
+
+
+
+
+	"cheeses": [{
+				"chName": "Blue Cheese",
+				"price": 1.45
+			},
+			{
+				"chName": "Brie",
+				"price": 1.45
+			},
+			{
+				"chName": "Camembert",
+				"price": 0.15
+			},
+			{
+				"chName": "Chedar",
+				"price": 0.45
+			},
+			{
+				"chName": "Colby",
+				"price": 0.45
+			},
+			{
+				"chName": "Feta",
+				"price": 1.45
+			},
+			{
+				"chName": "Goat Cheese",
+				"price": 1.45
+			},
+			{
+				"chName": "Gorgonzola",
+				"price": 1.45
+			},
+			{
+				"chName": "Limburger",
+				"price": 0.45
+			},
+			{
+				"chName": "Manchego",
+				"price": 1.45
+			},
+			{
+				"chName": "Monterey Jack",
+				"price": 0.25
+			},
+			{
+				"chName": "Parmesan",
+				"price": 0.25
+			},
+			{
+				"chName": "Mozzarella",
+				"price": 0.25
+			},
+			{
+				"chName": "Muenster",
+				"price": 0.45
+			},
+			{
+				"chName": "Port de Salut",
+				"price": 0.55
+			},
+			{
+				"chName": "Provolone",
+				"price": 0.55
+			},
+			{
+				"chName": "Ricota",
+				"price": 0.55
+			},
+			{
+				"chName": "Romano",
+				"price": 0.45
+			},
+			{
+				"chName": "Roquefort",
+				"price": 1.45
+			},
+			{
+				"chName": "Smoked Gouda",
+				"price": 1.45
+			}
+		]
+
+
+		,
+	"toppings": [{
+			"topName": "Prawns",
+			"price": 2.50
+		},
+		{
+			"topName": "Mushrooms",
+			"price": 0.50
+		},
+		{
+			"topName": "Onions",
+			"price": 0.50
+		},
+		{
+			"topName": "Ham",
+			"price": 1.50
+		},
+		{
+			"topName": "Pepperoni",
+			"price": 1.50
+		},
+		{
+			"topName": "Pineapple",
+			"price": 0.50
+		},
+		{
+			"topName": "Sweetcorn",
+			"price": 0.40
+		},
+		{
+			"topName": "Tomato Slices",
+			"price": 1.50
+		},
+		{
+			"topName": "Tomato Cubes",
+			"price": 1.50
+		},
+		{
+			"topName": "Jalapenos",
+			"price": 2.00
+		},
+		{
+			"topName": "Spinach",
+			"price": 2.00
+		},
+		{
+			"topName": "Anchovies",
+			"price": 2.00
+		},
+		{
+			"topName": "Tuna",
+			"price": 2.50
+		},
+		{
+			"topName": "Red peppers",
+			"price": 0.50
+		},
+		{
+			"topName": "Roast cauliflower",
+			"price": 0.50
+		},
+		{
+			"topName": "Roasted eggplant",
+			"price": 2.50
+		},
+		{
+			"topName": "Roasted Garlic",
+			"price": 0.25
+		},
+		{
+			"topName": "Roasted peppers",
+			"price": 0.50
+		},
+		{
+			"topName": "Proscuitto",
+			"price": 1.50
+		},
+		{
+			"topName": "Salami",
+			"price": 1.50
+		},
+		{
+			"topName": "Sausage",
+			"price": 1.50
+		},
+		{
+			"topName": "Serrano Ham",
+			"price": 2.50
+		},
+		{
+			"topName": "Turkey",
+			"price": 1.50
+		},
+		{
+			"topName": "BBQ Chicken",
+			"price": 0.50
+		},
+		{
+			"topName": "Beef",
+			"price": 1.50
+		},
+		{
+			"topName": "Cajun Chicken",
+			"price": 0.75
+		},
+		{
+			"topName": "Chicken Masala",
+			"price": 1.50
+		},
+		{
+			"topName": "Chicken Tikka",
+			"price": 1.50
+		},
+		{
+			"topName": "Chorizo",
+			"price": 2.50
+		},
+		{
+			"topName": "Green peppers",
+			"price": 0.50
+		},
+		{
+			"topName": "Kalamata olives",
+			"price": 0.50
+		},
+		{
+			"topName": "Lettuce",
+			"price": 0.20
+		},
+		{
+			"topName": "Avocado",
+			"price": 0.50
+		},
+		{
+			"topName": "Beetroot",
+			"price": 1.50
+		},
+		{
+			"topName": "Black Beans",
+			"price": 1.50
+		},
+		{
+			"topName": "Broccoli",
+			"price": 0.50
+		}
 	]
+
+
+
 
 }
