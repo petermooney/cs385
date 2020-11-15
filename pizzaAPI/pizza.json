@@ -215,11 +215,6 @@
 			"price": 2.75
 		},
 		{
-			"baseID": 51698,
-			"baseName": "Chicago Style",
-			"price": 2.75
-		},
-		{
 			"baseID": 516982,
 			"baseName": "New York Style",
 			"price": 2.75
@@ -233,6 +228,11 @@
 			"baseID": 2414,
 			"baseName": "CS385 Special Base",
 			"price": 3.50
+		},
+		{
+			"baseID": 94142,
+			"baseName": "Vegetarian Special",
+			"price": 2.30
 		}
 
 	]
