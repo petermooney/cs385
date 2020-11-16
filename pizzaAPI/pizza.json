@@ -1,4 +1,14 @@
 {
+	"sizes": [
+	
+	{"sName": "Mini Pizza","costFactor": 1.0},
+	{"sName": "Small Pizza","costFactor": 1.1},
+	{"sName": "Medium Pizza","costFactor": 1.25},		
+	{"sName": "Large Pizza","costFactor": 1.50},
+	{"sName": "XL Large Pizza","costFactor": 2.0}
+	],
+
+
 	"toppings": [{
 		"topName": "Prawns",
 		"price": 2.5
@@ -44,7 +54,11 @@
 	}, {
 		"topName": "Roast cauliflower",
 		"price": 0.5
-	},  {
+	}, 
+	{
+		"topName": "Roasted eggplant",
+		"price": 2.5
+	}, {
 		"topName": "Roasted Garlic",
 		"price": 0.25
 	}, {
