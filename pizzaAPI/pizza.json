@@ -1,124 +1,142 @@
 {
+	"TOPPING_LIMIT": 10,
+	"CHEESE_LIMIT": 3,
 	"sizes": [
-	
-	{"sName": "Mini Pizza","costFactor": 1.0},
-	{"sName": "Small Pizza","costFactor": 1.1},
-	{"sName": "Medium Pizza","costFactor": 1.25},		
-	{"sName": "Large Pizza","costFactor": 1.50},
-	{"sName": "XL Large Pizza","costFactor": 2.0}
+
+		{
+			"sName": "Mini Pizza",
+			"costFactor": 1.0
+		},
+		{
+			"sName": "Small Pizza",
+			"costFactor": 1.1
+		},
+		{
+			"sName": "Medium Pizza",
+			"costFactor": 1.25
+		},
+		{
+			"sName": "Large Pizza",
+			"costFactor": 1.50
+		},
+		{
+			"sName": "XL Large Pizza",
+			"costFactor": 2.0
+		}
 	],
 
 
 	"toppings": [{
-		"topName": "Prawns",
-		"price": 2.5
-	}, {
-		"topName": "Mushrooms",
-		"price": 0.5
-	}, {
-		"topName": "Onions",
-		"price": 0.5
-	}, {
-		"topName": "Ham",
-		"price": 1.5
-	}, {
-		"topName": "Pepperoni",
-		"price": 1.5
-	}, {
-		"topName": "Pineapple",
-		"price": 0.5
-	}, {
-		"topName": "Sweetcorn",
-		"price": 0.4
-	}, {
-		"topName": "Tomato Slices",
-		"price": 1.5
-	}, {
-		"topName": "Tomato Cubes",
-		"price": 1.5
-	}, {
-		"topName": "Jalapenos",
-		"price": 2
-	}, {
-		"topName": "Spinach",
-		"price": 2
-	}, {
-		"topName": "Anchovies",
-		"price": 2
-	}, {
-		"topName": "Tuna",
-		"price": 2.5
-	}, {
-		"topName": "Red peppers",
-		"price": 0.5
-	}, {
-		"topName": "Roast cauliflower",
-		"price": 0.5
-	}, 
-	{
-		"topName": "Roasted eggplant",
-		"price": 2.5
-	}, {
-		"topName": "Roasted Garlic",
-		"price": 0.25
-	}, {
-		"topName": "Roasted peppers",
-		"price": 0.5
-	}, {
-		"topName": "Proscuitto",
-		"price": 1.5
-	}, {
-		"topName": "Salami",
-		"price": 1.5
-	}, {
-		"topName": "Sausage",
-		"price": 1.5
-	}, {
-		"topName": "Serrano Ham",
-		"price": 2.5
-	}, {
-		"topName": "Turkey",
-		"price": 1.5
-	}, {
-		"topName": "BBQ Chicken",
-		"price": 0.5
-	}, {
-		"topName": "Beef",
-		"price": 1.5
-	}, {
-		"topName": "Cajun Chicken",
-		"price": 0.75
-	}, {
-		"topName": "Chicken Masala",
-		"price": 1.5
-	}, {
-		"topName": "Chicken Tikka",
-		"price": 1.5
-	}, {
-		"topName": "Chorizo",
-		"price": 2.5
-	}, {
-		"topName": "Green peppers",
-		"price": 0.5
-	}, {
-		"topName": "Kalamata olives",
-		"price": 0.5
-	}, {
-		"topName": "Lettuce",
-		"price": 0.2
-	}, {
-		"topName": "Avocado",
-		"price": 0.5
-	}, {
-		"topName": "Beetroot",
-		"price": 1.5
-	}, {
-		"topName": "Black Beans",
-		"price": 1.5
-	}, {
-		"topName": "Broccoli",
-		"price": 0.5
-	}],
+			"topName": "Prawns",
+			"price": 2.5
+		}, {
+			"topName": "Mushrooms",
+			"price": 0.5
+		}, {
+			"topName": "Onions",
+			"price": 0.5
+		}, {
+			"topName": "Ham",
+			"price": 1.5
+		}, {
+			"topName": "Pepperoni",
+			"price": 1.5
+		}, {
+			"topName": "Pineapple",
+			"price": 0.5
+		}, {
+			"topName": "Sweetcorn",
+			"price": 0.4
+		}, {
+			"topName": "Tomato Slices",
+			"price": 1.5
+		}, {
+			"topName": "Tomato Cubes",
+			"price": 1.5
+		}, {
+			"topName": "Jalapenos",
+			"price": 2
+		}, {
+			"topName": "Spinach",
+			"price": 2
+		}, {
+			"topName": "Anchovies",
+			"price": 2
+		}, {
+			"topName": "Tuna",
+			"price": 2.5
+		}, {
+			"topName": "Red peppers",
+			"price": 0.5
+		}, {
+			"topName": "Roast cauliflower",
+			"price": 0.5
+		},
+		{
+			"topName": "Roasted eggplant",
+			"price": 2.5
+		}, {
+			"topName": "Roasted Garlic",
+			"price": 0.25
+		}, {
+			"topName": "Roasted peppers",
+			"price": 0.5
+		}, {
+			"topName": "Proscuitto",
+			"price": 1.5
+		}, {
+			"topName": "Salami",
+			"price": 1.5
+		}, {
+			"topName": "Sausage",
+			"price": 1.5
+		}, {
+			"topName": "Serrano Ham",
+			"price": 2.5
+		}, {
+			"topName": "Turkey",
+			"price": 1.5
+		}, {
+			"topName": "BBQ Chicken",
+			"price": 0.5
+		}, {
+			"topName": "Beef",
+			"price": 1.5
+		}, {
+			"topName": "Cajun Chicken",
+			"price": 0.75
+		}, {
+			"topName": "Chicken Masala",
+			"price": 1.5
+		}, {
+			"topName": "Chicken Tikka",
+			"price": 1.5
+		}, {
+			"topName": "Chorizo",
+			"price": 2.5
+		}, {
+			"topName": "Green peppers",
+			"price": 0.5
+		}, {
+			"topName": "Kalamata olives",
+			"price": 0.5
+		}, {
+			"topName": "Lettuce",
+			"price": 0.2
+		}, {
+			"topName": "Avocado",
+			"price": 0.5
+		}, {
+			"topName": "Beetroot",
+			"price": 1.5
+		}, {
+			"topName": "Black Beans",
+			"price": 1.5
+		}, {
+			"topName": "Broccoli",
+			"price": 0.5
+		}
+	],
 
 
 
