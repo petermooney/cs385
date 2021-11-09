@@ -1,0 +1,27 @@
+{
+	"features": [{
+			"type": "restaurant",
+			"properties": {
+				"id": "642",
+				"cuisine": "bbq",
+				"name": "Singapore Famous BBQ Pork"
+			}
+		},
+		{
+			"type": "hotel",
+			"properties": {
+				"id": "951",
+				"cuisine": "thai",
+				"name": "Crocodile Senior Thai"
+			}
+		},
+		{
+			"type": "cafe",
+			"properties": {
+				"id": "951",
+				"cuisine": "american",
+				"name": "The Kenworth Diner"
+			}
+		}
+	]
+}
