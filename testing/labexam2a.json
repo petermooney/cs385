@@ -1,0 +1,18 @@
+{
+"labExam2": [
+	{"alpha": 1,
+		"beta": {
+			"gamma": 210,
+			"delta": 310,
+			"epsilon": 410,
+			"zeta": 510}
+	},
+	{"alpha": 12,
+		"beta": {
+			"gamma": 120,
+			"delta": 310,
+			"epsilon": 410,
+			"zeta": 510}
+	}	
+]
+}
