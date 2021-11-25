@@ -1,0 +1,33 @@
+{
+	"geoData": [{
+			"type": "Feature",
+			"properties": {
+				"osm_id": "4280770",
+				"code": 5114,
+				"fclass": "secondary",
+				"name": "Someday road",
+				"ref": "R112"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"osm_id": "4806124",
+				"code": 5114,
+				"fclass": "secondary",
+				"name": "Templeville Road",
+				"ref": "R112"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"osm_id": "7403680",
+				"code": 5122,
+				"fclass": "residential",
+				"name": "Millgate Drive",
+				"ref": "L8306"
+			}
+		}
+	]
+}
