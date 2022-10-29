@@ -1,0 +1,100 @@
+{
+	"products": [{
+			"pid": 17,
+			"name": "Cabbage",
+			"price": 1.5,
+			"type": "veg"
+		},
+		{
+			"pid": 20,
+			"name": "Lettuce",
+			"price": 0.55,
+			"type": "veg"
+		},
+		{
+			"pid": 21,
+			"name": "Parsnips",
+			"price": 1.25,
+			"type": "veg"
+		},
+		{
+			"pid": 154,
+			"name": "Potatoes",
+			"price": 2.25,
+			"type": "veg"
+		},
+		{
+			"pid": 29,
+			"name": "Carrots",
+			"price": 0.85,
+			"type": "veg"
+		},
+		{
+			"pid": 28,
+			"name": "Cauliflower",
+			"price": 1.85,
+			"type": "veg"
+		},
+		{
+			"pid": 8,
+			"name": "Pumpkin",
+			"price": 2.95,
+			"type": "veg"
+		},
+		{
+			"pid": 34,
+			"name": "Brocolli",
+			"price": 0.95,
+			"type": "veg"
+		},
+		{
+			"pid": 117,
+			"name": "Pineapple",
+			"price": 2.5,
+			"type": "fruit"
+		},
+		{
+			"pid": 120,
+			"name": "Apple",
+			"price": 0.55,
+			"type": "fruit"
+		},
+		{
+			"pid": 121,
+			"name": "Grapes",
+			"price": 1.25,
+			"type": "fruit"
+		},
+		{
+			"pid": 1154,
+			"name": "Orange",
+			"price": 0.75,
+			"type": "fruit"
+		},
+		{
+			"pid": 129,
+			"name": "Banana",
+			"price": 0.35,
+			"type": "fruit"
+		},
+		{
+			"pid": 128,
+			"name": "Watermelon",
+			"price": 3.85,
+			"type": "fruit"
+		},
+		{
+			"pid": 18,
+			"name": "Pear",
+			"price": 0.95,
+			"type": "fruit"
+		},
+		{
+			"pid": 134,
+			"name": "Grapes",
+			"price": 0.95,
+			"type": "fruit"
+		}
+	]
+}
+
