@@ -1,0 +1,33 @@
+{
+	"pubs": [{
+			"isbn": "123-456-222",
+			"author": {
+				"lastname": "Codd",
+				"firstname": "Erwin"
+			},
+			"editor": {
+				"lastname": "Codd",
+				"firstname": "Erwin"
+			},
+			"title": "The Ultimate Database Study Guide",
+			"category": "Technology"
+		},
+		{
+			"isbn": "245-123-123",
+			"author": {
+				"lastname": "Mooney",
+				"firstname": "Peter"
+			},
+			"editor": {
+				"lastname": "Class",
+				"firstname": "CS385"
+			},
+			"title": "Getting started with React",
+			"category": "Mobile technology"
+		}
+	]
+}
+
+
+
+
