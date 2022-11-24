@@ -1,0 +1,34 @@
+{
+	"features": [{
+			"properties": {
+				"ghost_town": "yes",
+				"hamlet": "ghost_town",
+				"name": "Amotville",
+				"source": "The place names of New Mexico",
+				"wikidata": "Q22077910"
+			},
+			"geometry": {
+				"type": "Point",
+				"longitude": -104.248106,
+				"latitude": 34.5743153
+
+			}
+		},
+		{
+			"properties": {
+				"ghost_town": "yes",
+				"hamlet": "ghost_town",
+				"name": "Ruby Hill",
+				"name:etymology:wikidata": "Q4asd3367",
+				"source": "The place names of Nevada",
+				"wikidata": "Q7897910"
+			},
+			"geometry": {
+				"type": "Point",
+				"longitude": -114.298706,
+				"latitude": 34.5893153
+
+			}
+		}
+	]
+}
