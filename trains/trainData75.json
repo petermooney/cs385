@@ -1,0 +1,977 @@
+{ "trainService" : [ 
+      { 
+        "arrival" : "21:50",
+        "departure" : "Fulda station",
+        "destination" : "Erfurt Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 19,
+            "operator" : "DB Regio AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "2C",
+        "serviceNumber" : "AC91649"
+      },
+      { 
+        "arrival" : "15:01",
+        "departure" : "Hamburg Airport station",
+        "destination" : "Augsburg Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 18,
+            "operator" : "Thalys International",
+            "wifi" : "unknown"
+          },
+        "platform" : "9D",
+        "serviceNumber" : "AC03662"
+      },
+      { 
+        "arrival" : "16:45",
+        "departure" : "Hanau Hbf",
+        "destination" : "Hamburg-Altona",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 11,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - free"
+          },
+        "platform" : "1B",
+        "serviceNumber" : "IC368472"
+      },
+      { 
+        "arrival" : "19:54",
+        "departure" : "Berlin Ostkreuz",
+        "destination" : "Hamburg-Altona",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 16,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "4D",
+        "serviceNumber" : "DE59633"
+      },
+      { 
+        "arrival" : "10:56",
+        "departure" : "Heidelberg Hbf",
+        "destination" : "Kiel Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 5,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - free"
+          },
+        "platform" : "8C",
+        "serviceNumber" : "FG672478"
+      },
+      { 
+        "arrival" : "21:06",
+        "departure" : "Dortmund Hbf",
+        "destination" : "Schwerin Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 8,
+            "operator" : "Thalys International",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "8A",
+        "serviceNumber" : "TR1791"
+      },
+      { 
+        "arrival" : "20:19",
+        "departure" : "Halle(S)Hbf",
+        "destination" : "Halle(S)Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 7,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "no"
+          },
+        "platform" : "2C",
+        "serviceNumber" : "DE3433"
+      },
+      { 
+        "arrival" : "14:22",
+        "departure" : "Hamburg Airport station",
+        "destination" : "Berlin-Lichtenberg",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 9,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "4A",
+        "serviceNumber" : "AC071690"
+      },
+      { 
+        "arrival" : "19:42",
+        "departure" : "Freiburg(Breisgau)Hbf",
+        "destination" : "München-Pasing",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 14,
+            "operator" : "Thalys International",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "2D",
+        "serviceNumber" : "CS3737"
+      },
+      { 
+        "arrival" : "9:17",
+        "departure" : "München Hbf",
+        "destination" : "Solingen Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 20,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "2C",
+        "serviceNumber" : "KL397948"
+      },
+      { 
+        "arrival" : "15:41",
+        "departure" : "Berlin Hbf",
+        "destination" : "Stuttgart Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 14,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "3A",
+        "serviceNumber" : "IC971138"
+      },
+      { 
+        "arrival" : "18:25",
+        "departure" : "Stuttgart Stadtmitte",
+        "destination" : "Mannheim Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 7,
+            "operator" : "Thalys International",
+            "wifi" : "yes - free"
+          },
+        "platform" : "4C",
+        "serviceNumber" : "IC01867"
+      },
+      { 
+        "arrival" : "13:28",
+        "departure" : "Jena West",
+        "destination" : "Berlin Schönhauser Allee station",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 10,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - free"
+          },
+        "platform" : "3D",
+        "serviceNumber" : "AC39336"
+      },
+      { 
+        "arrival" : "16:21",
+        "departure" : "Berlin Zoologischer Garten",
+        "destination" : "Berlin Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 7,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - free"
+          },
+        "platform" : "3B",
+        "serviceNumber" : "DE72863"
+      },
+      { 
+        "arrival" : "21:45",
+        "departure" : "Gelsenkirchen Hbf",
+        "destination" : "Düsseldorf Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 9,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "7B",
+        "serviceNumber" : "AC74138"
+      },
+      { 
+        "arrival" : "21:57",
+        "departure" : "Jena West",
+        "destination" : "Gera Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 11,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "5A",
+        "serviceNumber" : "FG839777"
+      },
+      { 
+        "arrival" : "21:04",
+        "departure" : "Stuttgart Hbf",
+        "destination" : "Lübeck Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 7,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "9A",
+        "serviceNumber" : "FG9027"
+      },
+      { 
+        "arrival" : "18:15",
+        "departure" : "Hannover Hbf",
+        "destination" : "Münster(Westf)Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 14,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "8B",
+        "serviceNumber" : "KL890303"
+      },
+      { 
+        "arrival" : "17:09",
+        "departure" : "Wiesbaden Hbf",
+        "destination" : "Magdeburg Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 18,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "unknown"
+          },
+        "platform" : "8D",
+        "serviceNumber" : "IC2371"
+      },
+      { 
+        "arrival" : "17:00",
+        "departure" : "Münster(Westf)Hbf",
+        "destination" : "Koblenz Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 5,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "8B",
+        "serviceNumber" : "DE628623"
+      },
+      { 
+        "arrival" : "13:44",
+        "departure" : "Berlin Friedrichstraße",
+        "destination" : "Berlin Schönefeld Flughafen station",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 8,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "3C",
+        "serviceNumber" : "FG5169"
+      },
+      { 
+        "arrival" : "10:35",
+        "departure" : "München Marienplatz",
+        "destination" : "Düsseldorf Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 6,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "8A",
+        "serviceNumber" : "KL5152"
+      },
+      { 
+        "arrival" : "18:05",
+        "departure" : "Hannover Hbf",
+        "destination" : "Jena West",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 13,
+            "operator" : "DB Regio AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "4C",
+        "serviceNumber" : "KL0285"
+      },
+      { 
+        "arrival" : "14:33",
+        "departure" : "Karlsruhe Hbf",
+        "destination" : "Berlin Schönhauser Allee station",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 13,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "6D",
+        "serviceNumber" : "DE837214"
+      },
+      { 
+        "arrival" : "12:51",
+        "departure" : "Nürnberg Hbf",
+        "destination" : "Bielefeld Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 14,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "unknown"
+          },
+        "platform" : "4C",
+        "serviceNumber" : "CS94800"
+      },
+      { 
+        "arrival" : "13:54",
+        "departure" : "Dortmund Hbf",
+        "destination" : "Köln Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 9,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "1D",
+        "serviceNumber" : "CS72115"
+      },
+      { 
+        "arrival" : "13:11",
+        "departure" : "Duisburg Hbf",
+        "destination" : "Tübingen Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 5,
+            "operator" : "Thalys International",
+            "wifi" : "no"
+          },
+        "platform" : "1C",
+        "serviceNumber" : "KL0640"
+      },
+      { 
+        "arrival" : "13:52",
+        "departure" : "Dresden Hbf",
+        "destination" : "Berlin-Lichtenberg",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 18,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "2A",
+        "serviceNumber" : "DE99307"
+      },
+      { 
+        "arrival" : "16:36",
+        "departure" : "Worms Hbf",
+        "destination" : "Frankfurt(M)Hauptwache",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 17,
+            "operator" : "Thalys International",
+            "wifi" : "yes - free"
+          },
+        "platform" : "5B",
+        "serviceNumber" : "CS20518"
+      },
+      { 
+        "arrival" : "17:24",
+        "departure" : "Frankfurt South station",
+        "destination" : "Leipzig Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 15,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "8C",
+        "serviceNumber" : "CS447494"
+      },
+      { 
+        "arrival" : "20:18",
+        "departure" : "Gelsenkirchen Hbf",
+        "destination" : "Nürnberg Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 14,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "4A",
+        "serviceNumber" : "AC62426"
+      },
+      { 
+        "arrival" : "15:09",
+        "departure" : "Jena West",
+        "destination" : "Berlin Alexanderplatz",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 15,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "2D",
+        "serviceNumber" : "AC16041"
+      },
+      { 
+        "arrival" : "20:09",
+        "departure" : "Wiesbaden Hbf",
+        "destination" : "Berlin Schönefeld Flughafen station",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 20,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "6A",
+        "serviceNumber" : "FG159985"
+      },
+      { 
+        "arrival" : "18:07",
+        "departure" : "Stuttgart Hbf",
+        "destination" : "Düsseldorf Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 15,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "3D",
+        "serviceNumber" : "FG23573"
+      },
+      { 
+        "arrival" : "10:10",
+        "departure" : "Ulm Hbf",
+        "destination" : "Berlin-Lichtenberg",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 6,
+            "operator" : "DB Regio AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "2D",
+        "serviceNumber" : "KL413963"
+      },
+      { 
+        "arrival" : "16:54",
+        "departure" : "Solingen Hbf",
+        "destination" : "Potsdam Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 13,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "4D",
+        "serviceNumber" : "FG8673"
+      },
+      { 
+        "arrival" : "12:59",
+        "departure" : "Frankfurt(Main)Flughfn",
+        "destination" : "Frankfurt(Main)Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 17,
+            "operator" : "Thalys International",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "9B",
+        "serviceNumber" : "DE2930"
+      },
+      { 
+        "arrival" : "11:29",
+        "departure" : "Hamburg Harburg",
+        "destination" : "Hanau Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 14,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "6D",
+        "serviceNumber" : "FG67076"
+      },
+      { 
+        "arrival" : "9:12",
+        "departure" : "Jena West",
+        "destination" : "Nürnberg Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 19,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "3C",
+        "serviceNumber" : "CS93079"
+      },
+      { 
+        "arrival" : "15:06",
+        "departure" : "München Karlsplatz",
+        "destination" : "München Marienplatz",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 18,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "5D",
+        "serviceNumber" : "KL356513"
+      },
+      { 
+        "arrival" : "17:09",
+        "departure" : "Munich Isartor station",
+        "destination" : "Berlin Friedrichstraße",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 17,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "9C",
+        "serviceNumber" : "FG2361"
+      },
+      { 
+        "arrival" : "9:33",
+        "departure" : "Worms Hbf",
+        "destination" : "Mannheim Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 16,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "unknown"
+          },
+        "platform" : "9A",
+        "serviceNumber" : "DE338708"
+      },
+      { 
+        "arrival" : "19:07",
+        "departure" : "Hamburg Airport station",
+        "destination" : "Hamburg Jungfernstieg",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 14,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "1A",
+        "serviceNumber" : "KL567575"
+      },
+      { 
+        "arrival" : "19:10",
+        "departure" : "Hagen Hbf",
+        "destination" : "Mainz Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 18,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - free"
+          },
+        "platform" : "9A",
+        "serviceNumber" : "AC3608"
+      },
+      { 
+        "arrival" : "10:11",
+        "departure" : "Schwerin Hbf",
+        "destination" : "Stuttgart Stadtmitte",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 12,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "7D",
+        "serviceNumber" : "FG2499"
+      },
+      { 
+        "arrival" : "16:17",
+        "departure" : "Hamburg Harburg",
+        "destination" : "Erfurt Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 8,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "4C",
+        "serviceNumber" : "CS2648"
+      },
+      { 
+        "arrival" : "15:21",
+        "departure" : "Frankfurt(M)Hauptwache",
+        "destination" : "Duisburg Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 6,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "5D",
+        "serviceNumber" : "DE5374"
+      },
+      { 
+        "arrival" : "18:25",
+        "departure" : "Hagen Hbf",
+        "destination" : "HamburgHbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 16,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "no"
+          },
+        "platform" : "6C",
+        "serviceNumber" : "CS16844"
+      },
+      { 
+        "arrival" : "12:13",
+        "departure" : "Pforzheim Hbf",
+        "destination" : "Solingen Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 5,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "8A",
+        "serviceNumber" : "KL39160"
+      },
+      { 
+        "arrival" : "20:24",
+        "departure" : "Freiburg(Breisgau)Hbf",
+        "destination" : "Frankfurt(M)Hauptwache",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 18,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "no"
+          },
+        "platform" : "7C",
+        "serviceNumber" : "KL05162"
+      },
+      { 
+        "arrival" : "19:33",
+        "departure" : "Karlsruhe Hbf",
+        "destination" : "Berlin Friedrichstraße",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 11,
+            "operator" : "Thalys International",
+            "wifi" : "no"
+          },
+        "platform" : "8A",
+        "serviceNumber" : "CS148719"
+      },
+      { 
+        "arrival" : "10:36",
+        "departure" : "München Marienplatz",
+        "destination" : "Jena Paradies",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 12,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "unknown"
+          },
+        "platform" : "7B",
+        "serviceNumber" : "TR1206"
+      },
+      { 
+        "arrival" : "10:18",
+        "departure" : "Frankfurt South station",
+        "destination" : "Nürnberg Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 17,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "no"
+          },
+        "platform" : "5C",
+        "serviceNumber" : "DE794441"
+      },
+      { 
+        "arrival" : "20:45",
+        "departure" : "Heidelberg Hbf",
+        "destination" : "Berlin Schönefeld Flughafen station",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 9,
+            "operator" : "DB Regio AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "3B",
+        "serviceNumber" : "CS602130"
+      },
+      { 
+        "arrival" : "20:25",
+        "departure" : "Frankfurt(M)Konstabler Wache",
+        "destination" : "Berlin Friedrichstraße",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 9,
+            "operator" : "Thalys International",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "2C",
+        "serviceNumber" : "CS8719"
+      },
+      { 
+        "arrival" : "10:39",
+        "departure" : "Munich Laim station",
+        "destination" : "Koblenz Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 16,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - free"
+          },
+        "platform" : "1A",
+        "serviceNumber" : "IC514319"
+      },
+      { 
+        "arrival" : "20:51",
+        "departure" : "Dresden Hbf",
+        "destination" : "Leipzig Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 7,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "1A",
+        "serviceNumber" : "TR423667"
+      },
+      { 
+        "arrival" : "16:20",
+        "departure" : "Magdeburg Hbf",
+        "destination" : "Wiesbaden Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 10,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - free"
+          },
+        "platform" : "2A",
+        "serviceNumber" : "IC5187"
+      },
+      { 
+        "arrival" : "18:59",
+        "departure" : "HamburgHbf",
+        "destination" : "Potsdam Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 16,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "no"
+          },
+        "platform" : "2A",
+        "serviceNumber" : "IC48218"
+      },
+      { 
+        "arrival" : "10:39",
+        "departure" : "Dresden Hbf",
+        "destination" : "Koblenz Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 19,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "unknown"
+          },
+        "platform" : "9B",
+        "serviceNumber" : "TR926208"
+      },
+      { 
+        "arrival" : "15:54",
+        "departure" : "Berlin Südkreuz",
+        "destination" : "Berlin Alexanderplatz",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 13,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "7B",
+        "serviceNumber" : "AC783563"
+      },
+      { 
+        "arrival" : "17:51",
+        "departure" : "Hamburg-Altona",
+        "destination" : "Frankfurt(Main)Flughfn",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 7,
+            "operator" : "Thalys International",
+            "wifi" : "no"
+          },
+        "platform" : "1A",
+        "serviceNumber" : "FG3336"
+      },
+      { 
+        "arrival" : "14:55",
+        "departure" : "Freiburg(Breisgau)Hbf",
+        "destination" : "Heidelberg Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 20,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "unknown"
+          },
+        "platform" : "1A",
+        "serviceNumber" : "IC082438"
+      },
+      { 
+        "arrival" : "21:18",
+        "departure" : "Köln Hbf",
+        "destination" : "Erfurt Hbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 11,
+            "operator" : "DB Regio AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "1C",
+        "serviceNumber" : "FG31262"
+      },
+      { 
+        "arrival" : "15:52",
+        "departure" : "Berlin Ostkreuz",
+        "destination" : "Erfurt Hbf",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 11,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "8D",
+        "serviceNumber" : "DE6643"
+      },
+      { 
+        "arrival" : "20:11",
+        "departure" : "Dresden Hbf",
+        "destination" : "Berlin Alexanderplatz",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 18,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "9A",
+        "serviceNumber" : "AC030718"
+      },
+      { 
+        "arrival" : "14:58",
+        "departure" : "Bielefeld Hbf",
+        "destination" : "Hamburg Jungfernstieg",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 14,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "unknown"
+          },
+        "platform" : "9B",
+        "serviceNumber" : "KL45191"
+      },
+      { 
+        "arrival" : "17:43",
+        "departure" : "München Hbf",
+        "destination" : "Frankfurt South station",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 19,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "yes - free"
+          },
+        "platform" : "1D",
+        "serviceNumber" : "CS39541"
+      },
+      { 
+        "arrival" : "14:19",
+        "departure" : "Berlin Südkreuz",
+        "destination" : "Frankfurt South station",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 11,
+            "operator" : "DB Regio AG",
+            "wifi" : "unknown"
+          },
+        "platform" : "2A",
+        "serviceNumber" : "KL53231"
+      },
+      { 
+        "arrival" : "10:17",
+        "departure" : "Frankfurt(Main)Hbf",
+        "destination" : "Berlin-Lichtenberg",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 5,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "7A",
+        "serviceNumber" : "TR30787"
+      },
+      { 
+        "arrival" : "18:40",
+        "departure" : "Berlin Zoologischer Garten",
+        "destination" : "München Ostbf",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 17,
+            "operator" : "Veolia Verkehr GmbH",
+            "wifi" : "no"
+          },
+        "platform" : "1D",
+        "serviceNumber" : "DE9703"
+      },
+      { 
+        "arrival" : "20:13",
+        "departure" : "Duisburg Hbf",
+        "destination" : "Angermünde station",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 13,
+            "operator" : "DB Fernverkehr AG",
+            "wifi" : "yes - free"
+          },
+        "platform" : "6D",
+        "serviceNumber" : "TR369659"
+      },
+      { 
+        "arrival" : "9:02",
+        "departure" : "Lübeck Hbf",
+        "destination" : "Munich Isartor station",
+        "details" : { 
+            "bikes" : "yes",
+            "cars" : 12,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "unknown"
+          },
+        "platform" : "7D",
+        "serviceNumber" : "KL309941"
+      },
+      { 
+        "arrival" : "16:22",
+        "departure" : "Stuttgart Hbf",
+        "destination" : "Stuttgart Stadtmitte",
+        "details" : { 
+            "bikes" : "limited",
+            "cars" : 12,
+            "operator" : "DB Regio AG",
+            "wifi" : "no"
+          },
+        "platform" : "1D",
+        "serviceNumber" : "DE31665"
+      },
+      { 
+        "arrival" : "15:25",
+        "departure" : "Karlsruhe Hbf",
+        "destination" : "Lübeck Hbf",
+        "details" : { 
+            "bikes" : "no",
+            "cars" : 19,
+            "operator" : "Deutsche Bahn",
+            "wifi" : "yes - fee"
+          },
+        "platform" : "3D",
+        "serviceNumber" : "CS8617"
+      }
+    ] }
