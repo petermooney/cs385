@@ -1,0 +1,1 @@
+This directory contains some randomly generated (by Mockaroo) train schedule data for the German train system. No checks are made to see if arrival and destination stations are the same or are very close. The data is for API testing. 
