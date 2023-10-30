@@ -1,0 +1,37 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "addr:city": "Roma",
+        "addr:country": "IT",
+        "addr:housenumber": "63",
+        "addr:postcode": "00184",
+        "addr:street": "Via dei Santi Quattro",
+        "amenity": "restaurant",
+        "name": "La Pace del Cervello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinatesX": 12.4945929,
+        coordinatesY":  41.8894856
+        
+      },
+      "id": "node/1147386907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Gran Caffe Martini & Rossi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinatesX": 12.545929,
+        coordinatesY":  41.83394856
+      },
+      "id": "node/1688847325"
+    }
+  ]
+}
