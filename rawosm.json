@@ -14,7 +14,7 @@
       "geometry": {
         "type": "Point",
         "coordinatesX": 12.4945929,
-        coordinatesY":  41.8894856
+        "coordinatesY":  41.8894856
         
       },
       "id": "node/1147386907"
@@ -29,7 +29,7 @@
       "geometry": {
         "type": "Point",
         "coordinatesX": 12.545929,
-        coordinatesY":  41.83394856
+        "coordinatesY":  41.83394856
       },
       "id": "node/1688847325"
     }
