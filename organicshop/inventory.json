@@ -9,6 +9,23 @@
             }
         },
         {
+            "pid": 113,
+            "productCategory": "Vegetables",
+            "plant": {
+                "name": "Seed Potatoes",
+                "price": 8.5
+            }
+        },
+        {
+            "pid": 2109,
+            "productCategory": "Fruits",
+            "plant": {
+                "name": "Rhubarb Stalk roots",
+                "price": 5
+            }
+        },
+        
+        {
             "pid": 21,
             "productCategory": "Fruits",
             "plant": {
@@ -40,6 +57,16 @@
                 "price": 10
             }
         },
+        {
+            "pid": 8181,
+            "productCategory": "Flowers",
+            "plant": {
+                "name": "Daffodil Bulbs (100)",
+                "price": 20
+            }
+        },
+
+        
         {
             "pid": 188,
             "productCategory": "Flowers",
